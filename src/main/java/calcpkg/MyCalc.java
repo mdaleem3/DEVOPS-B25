@@ -27,7 +27,7 @@ public class MyCalc {
 		System.out.println("Hello Docker");
 		System.out.println("Hello Simplilearn");
 		System.out.println("Hello SRE");
-		System.out.println("Hellow worls i am fine");
+		System.out.println("Hellow worls i am fine and good");
 	}
 
 	public static void main(String[] args) {
